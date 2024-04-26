@@ -1,5 +1,5 @@
 import { Hero } from "../sections";
-import { AgencySelection } from "../collections/AgencySelection/agencyselection";
+import { AgencySelection } from "../collections/AgencySelection/AgencySelection";
 
 
 const heroProps = {
